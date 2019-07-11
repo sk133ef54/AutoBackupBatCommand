@@ -1,7 +1,7 @@
 REM # ##################################################
 REM # This is AutoBackupBatCommand.
 REM # Tool Name autoBk.bat
-REM # Varsion r01_01_01
+REM # Varsion r01_01_02
 REM # 2019 sk133ef54 <s.kinoshita.20180820@gmail.com>
 REM # ##################################################
 REM # help =>robocopy /?
